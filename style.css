@@ -1,20 +1,20 @@
-.viagem_mainDiv
+.travel_mainDiv
 {
     border: 1px solid lightgrey;
 }
 
-.viagem_mainDiv img
+.travel_mainDiv img
 {
   width: 100%;
 }
 
-.viagem_mainDiv h5 , .viagem_mainDiv p
+.travel_mainDiv h5 , .travel_mainDiv p
 {
 margin: 20px;
 }
 
 
-.filmesHead
+.Filmes_head
 {
     font-size: 20px;
     padding: 6px 22px;
@@ -22,24 +22,25 @@ margin: 20px;
     margin-bottom: 15px;
 }
 
-.filmesHead i
+.Filmes_head i
 {
 float: right;
 }
 
-.filmesText span
+.Filmes_text span
 {
 color: orange;
 }
 
-
-.livros
+.book 
 {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
-#contato iframe
+#contact iframe
 {
     width: 100%;
 }
+
+
 
